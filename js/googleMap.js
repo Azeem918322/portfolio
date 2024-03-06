@@ -1,6 +1,6 @@
 $(window).load(function () {
   var mapUrl =
-      "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hospital+Chowk,+DC+Office+Rd,+Bahawalnagar,+Punjab,+Pakistan&amp;ll=30.007063979052088,73.25866810774022&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed",
+      "https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hospital+Chowk,+DC+Office+Rd,+Bahawalnagar,+Punjab,+Pakistan&amp;ll=30.007063979052088,73.25866810774022&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed",
     onLoadWebSite = false,
     googleMapHolder = $(".google_map"),
     backgroundColor = googleMapHolder.css("backgroundColor"),
